@@ -1,1 +1,1 @@
-Experimentation code for IOKR, based on existing findings.
+This code comes with a research paper. Further docs is on the paper.
